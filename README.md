@@ -1,4 +1,4 @@
-# all-patterns
+# all-patterns :recycle:
 
 ### All of the best software patterns in one place 
 
